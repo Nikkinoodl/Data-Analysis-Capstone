@@ -1,2 +1,2 @@
 # Data-Analysis-Capstone
-Capstone project for the IBM Data Analysis course
+This repository contains working documents produced for the IBM Data Analyst Pofessional certification (new version).
